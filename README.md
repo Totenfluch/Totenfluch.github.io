@@ -43,7 +43,7 @@ Christian Ziegler is a Tech Lead at StableLab, analyzing Decentralized Autonomou
 
 - Global DeFi Conference - "Blockchainification of Fortune 500s - How incumbent firms need to adapt their business", online (28.03.2022, [recording](https://www.notion.so/d850b0c813014a4891f0a656765350ed?pvs=21))
 - [muc.xyz](http://muc.xyz) - "What makes a DAO a DAO", Munich (28.05.2022, [recording](https://youtu.be/hW1C6MZHR-I?t=12784))
-- Behavioral & Empirical Work in Progress | BEWIP Seminar - "A Taxonomy of Decentralized Autonomous Organizations - Research insights", Munich (28.06.2022)
+- Behavioral & Empirical Work in Progress: BEWIP Seminar - "A Taxonomy of Decentralized Autonomous Organizations - Research insights", Munich (28.06.2022)
 - [Bluezone Campus](https://bluezone.show/) - "Metaverse, NFTs and more", Munich (30.08.2022)
 - [UCL CBT Open Seminars](http://blockchain.cs.ucl.ac.uk/online-open-seminars/) - "A Taxonomy of Decentralized Autonomous Organizations and an Analysis of their Success Factors", online (29.09.2022, [recording](http://blockchain.cs.ucl.ac.uk/online-open-seminars/))
 - Blockchain Bundesverband “Bundesblock” Arbeitsgruppe DAO - "A Taxonomy of Decentralized Autonomous Organizations", online (18.10.2022)
