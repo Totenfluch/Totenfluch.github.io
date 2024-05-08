@@ -13,6 +13,7 @@ Christian Ziegler is a Tech Lead at StableLab, analyzing Decentralized Autonomou
 - **Ziegler**, Christian, and Syeda Rabab Zehra, "Decoding Decentralized Autonomous Organizations: A Content Analysis Approach to Understanding Scoring Platforms." *Journal of Risk and Financial Management* 16.7 (2023): 330. [https://doi.org/10.3390/jrfm16070330](https://doi.org/10.3390/jrfm16070330)
 - M. Lamby, V. Zieglmeier, and C. **Ziegler**, "Trusting a Smart Contract Means Trusting its Owners: Understanding Centralization Risk," *2023 5th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)*, Paris, France, 2023, pp. 1-4, [doi: 10.1109/BRAINS59668.2023.10316813](https://doi.org/10.1109/BRAINS59668.2023.10316813).
 - Pytel, N., **Ziegler**, C., & Winkelmann, A. (2024). "From Dissonance to Dialogue: A Token-Based Approach to Bridge the Gap Between Manufacturers and Customers". *ACM Trans. Manage. Inf. Syst.*. [https://dl.acm.org/doi/10.1145/3639058](https://dl.acm.org/doi/10.1145/3639058)
+- **Ziegler**, Christian; Praski, Marcin; Fadeev, Dmitry; Wagner, Thomas; and Matout, Hassan, "A Network Analysis of Decentralized Autonomous Organizations" (2024). ECIS 2024 Proceedings. 8. [https://aisel.aisnet.org/ecis2024/track16_fintech/track16_fintech/8](https://aisel.aisnet.org/ecis2024/track16_fintech/track16_fintech/8)
 
 ## Pre-Prints
 
