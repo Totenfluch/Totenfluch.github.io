@@ -45,7 +45,7 @@ Christian Ziegler is a Tech Lead at StableLab, analyzing Decentralized Autonomou
 - International Conference on Information Systems (ICIS) - "A Taxonomy of Decentralized Autonomous Organizations", Copenhagen (14.12.2022, online [recording](https://aisel.aisnet.org/icis2022/blockchain/blockchain/1/), onsite no recording)
 - UCL Center for Blockchain Technologies - "Call for Proposals 2022 Awards Showcase - A Taxonomy of Decentralized Autonomous Organizations and an Analysis of their Success Factors", London (13.02.2023, [recording](https://player.vimeo.com/video/799166629), [website](http://blockchain.cs.ucl.ac.uk/call-for-proposals-2022-awards/))
 - TUM Blockchain Salon - "Decentralized Autonomous Organizations", Munich TUM IAS (12.05.2023, [website](https://hedgedoc.net.in.tum.de/s/xDwzUxvFV))
-- European DAO Workshop 2024 (DAWO24) - "Classifying Proposals of Decentralized Autonomous Organizations Using Large Language Models", Winterthur (04.07.2023, [Website](https://dawo24.org/)
+- European DAO Workshop 2024 (DAWO24) - "Classifying Proposals of Decentralized Autonomous Organizations Using Large Language Models", Winterthur (04.07.2023, [Website](https://dawo24.org/))
 
 ## Selected Completed Student Supervisions
 
