@@ -87,8 +87,8 @@ Christian Ziegler is a Tech Lead at StableLab, analyzing Decentralized Autonomou
 - EthMunich, Munich, 11-13. August 2023
 - EthBerlin 2024, Berlin, 25-26. May 2024
 - ECIS 2024, Cyprus, 13-19. June 2024
-- DAWO24, Winterhur, 4-5. July 2024
-- EthCC[7], Brüssel, 8-11. July 2024
+- DAWO24, Winterthur, 4-5. July 2024
+- EthCC[7], Bruxelles, 8-11. July 2024
 
 **Upcoming**
 - DEVCON, Bangkok, 12-15. Nov 2024
