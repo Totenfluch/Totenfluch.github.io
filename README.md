@@ -1,11 +1,4 @@
-# Christian Ziegler
-
-Christian Ziegler is a Tech Lead at StableLab, analyzing Decentralized Autonomous Organizations. Prevously, he was a researcher at the Chair for Strategy and Organization (TUM) led by Prof. Dr. Isabell M. Welpe. He is currently writing his doctoral thesis on Decentralized Autonomous Organizations. In 2018, he co-founded Blockcurators GmbH, which specializes in social wallets and social media marketing to enable non-technical people easy access to the world of cryptocurrency. His previous scientific research includes a Taxonomy of DAOs, scoring methodologies for DAOs, and an analysis of distributed ledger technologies.
-
-## Research Interests
-
-- Decentralized Autonomous Organizations
-- Blockchain & Web3
+Christian Ziegler is a Tech Lead at StableLab, analyzing Decentralized Autonomous Organizations. Prevously, he was a researcher at the Chair for Strategy and Organization (TUM) led by Prof. Dr. Isabell M. Welpe. He wrote his doctoral thesis on Decentralized Autonomous Organizations. In 2018, he co-founded Blockcurators GmbH, which specializes in social wallets and social media marketing to enable non-technical people easy access to the world of cryptocurrency scaling to 60k MAU. His previous peer-reviewed published scientific research includes a [A Taxonomy of DAOs](https://mediatum.ub.tum.de/doc/1709396/document.pdf), [scoring methodologies for DAOs](https://www.mdpi.com/1911-8074/16/7/330), [a network analysis of DAOS](https://mediatum.ub.tum.de/doc/1742459/document.pdf), [a classification of DAO proposals using LLMs](https://arxiv.org/abs/2401.07059), a [token based communication system](https://dl.acm.org/doi/10.1145/3639058), and a [research agenda for DAOs](https://arxiv.org/abs/2312.17197).
 
 ## Peer-Reviewed Publications
 
@@ -30,6 +23,7 @@ Christian Ziegler is a Tech Lead at StableLab, analyzing Decentralized Autonomou
 - **Starting a cutting-edge web3 business**: Trends in web3, sustainable decentralized business models (SS22)
 - **Governance in Decentralized Environments**: How DAOs reshape the Organizational Landscape (WS22/23)
 - **Decentralized Autonomous Organizations, Web3, Blockchain and the Metaverse** (SS23)
+- **Leading the Decentralized Revolution:** Decentralized Autonomous Organizations in Practice (WS24/25)
 
 ## Activities
 
@@ -51,6 +45,7 @@ Christian Ziegler is a Tech Lead at StableLab, analyzing Decentralized Autonomou
 - International Conference on Information Systems (ICIS) - "A Taxonomy of Decentralized Autonomous Organizations", Copenhagen (14.12.2022, online [recording](https://aisel.aisnet.org/icis2022/blockchain/blockchain/1/), onsite no recording)
 - UCL Center for Blockchain Technologies - "Call for Proposals 2022 Awards Showcase - A Taxonomy of Decentralized Autonomous Organizations and an Analysis of their Success Factors", London (13.02.2023, [recording](https://player.vimeo.com/video/799166629), [website](http://blockchain.cs.ucl.ac.uk/call-for-proposals-2022-awards/))
 - TUM Blockchain Salon - "Decentralized Autonomous Organizations", Munich TUM IAS (12.05.2023, [website](https://hedgedoc.net.in.tum.de/s/xDwzUxvFV))
+- European DAO Workshop 2024 (DAWO24) - "Classifying Proposals of Decentralized Autonomous Organizations Using Large Language Models", Winterthur (04.07.2023)
 
 ## Selected Completed Student Supervisions
 
@@ -90,12 +85,12 @@ Christian Ziegler is a Tech Lead at StableLab, analyzing Decentralized Autonomou
 - TUM Blockchain Salon, Munich, 11-12. Mai 2023
 - EthCC[6], Paris, 17-20. July 2023
 - EthMunich, Munich, 11-13. August 2023
-
-**Upcoming**
-
 - EthBerlin 2024, Berlin, 25-26. May 2024
 - ECIS 2024, Cyprus, 13-19. June 2024
 - DAWO24, Winterhur, 4-5. July 2024
 - EthCC[7], Brüssel, 8-11. July 2024
+
+**Upcoming**
 - DEVCON, Bangkok, 12-15. Nov 2024
+- EthCC[8], Cannes, Summer 2025
 
