@@ -1,4 +1,4 @@
-Christian Ziegler is a Tech Lead at StableLab, analyzing Decentralized Autonomous Organizations. Prevously, he was a researcher at the Chair for Strategy and Organization (TUM) led by Prof. Dr. Isabell M. Welpe. He wrote his doctoral thesis on Decentralized Autonomous Organizations. In 2018, he co-founded Blockcurators GmbH, which specializes in social wallets and social media marketing to enable non-technical people easy access to the world of cryptocurrency scaling to 60k MAU. His previous peer-reviewed published scientific research includes a [A Taxonomy of DAOs](https://mediatum.ub.tum.de/doc/1709396/document.pdf), [scoring methodologies for DAOs](https://www.mdpi.com/1911-8074/16/7/330), [a network analysis of DAOS](https://mediatum.ub.tum.de/doc/1742459/document.pdf), [a classification of DAO proposals using LLMs](https://arxiv.org/abs/2401.07059), a [token based communication system](https://dl.acm.org/doi/10.1145/3639058), and a [research agenda for DAOs](https://arxiv.org/abs/2312.17197).
+Christian Ziegler is a Tech Lead at StableLab, analyzing Decentralized Autonomous Organizations. Prevously, he worked as researcher at the Technical University of Munich (TUM), where he wrote his doctoral thesis on Decentralized Autonomous Organizations. In 2018, he co-founded Blockcurators GmbH, which specializes in social wallets and social media marketing scaling to 60k MAU, single-handedly developing the software. His previous peer-reviewed published scientific research includes a [A Taxonomy of DAOs](https://mediatum.ub.tum.de/doc/1709396/document.pdf), [scoring methodologies for DAOs](https://www.mdpi.com/1911-8074/16/7/330), [a network analysis of DAOS](https://mediatum.ub.tum.de/doc/1742459/document.pdf), [a classification of DAO proposals using LLMs](https://arxiv.org/abs/2401.07059), a [token based communication system](https://dl.acm.org/doi/10.1145/3639058), and a [research agenda for DAOs](https://arxiv.org/abs/2312.17197).
 
 ## Peer-Reviewed Publications
 
@@ -45,28 +45,22 @@ Christian Ziegler is a Tech Lead at StableLab, analyzing Decentralized Autonomou
 - International Conference on Information Systems (ICIS) - "A Taxonomy of Decentralized Autonomous Organizations", Copenhagen (14.12.2022, online [recording](https://aisel.aisnet.org/icis2022/blockchain/blockchain/1/), onsite no recording)
 - UCL Center for Blockchain Technologies - "Call for Proposals 2022 Awards Showcase - A Taxonomy of Decentralized Autonomous Organizations and an Analysis of their Success Factors", London (13.02.2023, [recording](https://player.vimeo.com/video/799166629), [website](http://blockchain.cs.ucl.ac.uk/call-for-proposals-2022-awards/))
 - TUM Blockchain Salon - "Decentralized Autonomous Organizations", Munich TUM IAS (12.05.2023, [website](https://hedgedoc.net.in.tum.de/s/xDwzUxvFV))
-- European DAO Workshop 2024 (DAWO24) - "Classifying Proposals of Decentralized Autonomous Organizations Using Large Language Models", Winterthur (04.07.2023)
+- European DAO Workshop 2024 (DAWO24) - "Classifying Proposals of Decentralized Autonomous Organizations Using Large Language Models", Winterthur (04.07.2023, [Website](https://dawo24.org/)
 
 ## Selected Completed Student Supervisions
 
-- **How to Spot the Next Unicorn NFTs, Tokens, Coins, DAOs, and More.**  
-  _IDP, Simon Schnückel & Simon Berger_  
-  [Project Link](https://www.notion.so/929e209982c64467920f31168a213b33?pvs=21)
+- **How to Spot the Next Unicorn NFTs, Tokens, Coins, DAOs, and More**  
+  _IDP, Simon Schnückel & Simon Berger_ [link](https://www.notion.so/929e209982c64467920f31168a213b33?pvs=21)
 - **How Decentralized Autonomous Organizations Disrupt Traditional Organizations - A Quantitative Study**  
-  _Master’s Thesis of Renzhi Liu_  
-  [Project Link](https://www.notion.so/How-Decentralized-Autonomous-Organizations-Disrupt-Traditional-Organizations-A-Quantitative-Study-956123e655d24db3bc3b8946593eb61d?pvs=21)
+  _Master’s Thesis of Renzhi Liu_ [link](https://www.notion.so/How-Decentralized-Autonomous-Organizations-Disrupt-Traditional-Organizations-A-Quantitative-Study-956123e655d24db3bc3b8946593eb61d?pvs=21)
 - **An Empirical Assessment of DAOs to Determine Their Most Important Features**  
-  _Master’s Thesis of Ahmed Blej_  
-  [Project Link](https://www.notion.so/bd8919f2a0ea4556bc5d16a04f337090?pvs=21)
+  _Master’s Thesis of Ahmed Blej_ [link](https://www.notion.so/bd8919f2a0ea4556bc5d16a04f337090?pvs=21)
 - **An Empirical Analysis of Business Models in Decentralized Autonomous Organizations**  
-  _Master’s Thesis of Laxman Bhusal_  
-  [Project Link](https://www.notion.so/6632a143896d464d837059447130ff2f?pvs=21)
+  _Master’s Thesis of Laxman Bhusal_ [link](https://www.notion.so/6632a143896d464d837059447130ff2f?pvs=21)
 - **An Empirical Analysis of Investments in Decentralized Autonomous Organizations**  
-  _Master’s Thesis of Shivani Verma_  
-  [Project Link](https://www.notion.so/An-Empirical-Analysis-of-Investments-in-Decentralized-Autonomous-Organizations-3aa0caae05c54f129c1a732f0fe429d8?pvs=21)
+  _Master’s Thesis of Shivani Verma_ [link](https://www.notion.so/An-Empirical-Analysis-of-Investments-in-Decentralized-Autonomous-Organizations-3aa0caae05c54f129c1a732f0fe429d8?pvs=21)
 - **The Potential Impact of Decentralized Autonomous Organizations on the Biotech Ecosystem**  
-  _Master’s Thesis of Konstantin Amm_  
-  [Project Link](https://www.notion.so/f9e743fe06a14f01a99d2d1c44611afb?pvs=21)
+  _Master’s Thesis of Konstantin Amm_ [link](https://www.notion.so/f9e743fe06a14f01a99d2d1c44611afb?pvs=21)
 
 
 ## Selected Conference and Hackathon Attendance
