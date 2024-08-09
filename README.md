@@ -2,16 +2,16 @@ Christian Ziegler is the Chief Technology Officer of StableLab, analyzing Decent
 
 ## Peer-Reviewed Publications
 
-- **Ziegler**, Christian, and Welpe, Isabell M., "A Taxonomy of Decentralized Autonomous Organizations" (2022). *ICIS 2022 Proceedings*. 1. [https://aisel.aisnet.org/icis2022/blockchain/blockchain/1/](https://aisel.aisnet.org/icis2022/blockchain/blockchain/1/)
-- **Ziegler**, Christian, and Syeda Rabab Zehra, "Decoding Decentralized Autonomous Organizations: A Content Analysis Approach to Understanding Scoring Platforms." *Journal of Risk and Financial Management* 16.7 (2023): 330. [https://doi.org/10.3390/jrfm16070330](https://doi.org/10.3390/jrfm16070330)
-- M. Lamby, V. Zieglmeier, and C. **Ziegler**, "Trusting a Smart Contract Means Trusting its Owners: Understanding Centralization Risk," *2023 5th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)*, Paris, France, 2023, pp. 1-4, [doi: 10.1109/BRAINS59668.2023.10316813](https://doi.org/10.1109/BRAINS59668.2023.10316813).
-- Pytel, N., **Ziegler**, C., & Winkelmann, A. (2024). "From Dissonance to Dialogue: A Token-Based Approach to Bridge the Gap Between Manufacturers and Customers". *ACM Trans. Manage. Inf. Syst.*. [https://dl.acm.org/doi/10.1145/3639058](https://dl.acm.org/doi/10.1145/3639058)
-- **Ziegler**, Christian; Praski, Marcin; Fadeev, Dmitry; Wagner, Thomas; and Matout, Hassan, "A Network Analysis of Decentralized Autonomous Organizations" (2024). ECIS 2024 Proceedings. 8. [https://aisel.aisnet.org/ecis2024/track16_fintech/track16_fintech/8](https://aisel.aisnet.org/ecis2024/track16_fintech/track16_fintech/8)
+- **Ziegler**, Christian, and Welpe, Isabell M., "A Taxonomy of Decentralized Autonomous Organizations" (2022). *ICIS 2022 Proceedings*. 1. [https://aisel.aisnet.org/icis2022/blockchain/blockchain/1/](https://aisel.aisnet.org/icis2022/blockchain/blockchain/1/). [VHB, A]
+- **Ziegler**, Christian, and Syeda Rabab Zehra, "Decoding Decentralized Autonomous Organizations: A Content Analysis Approach to Understanding Scoring Platforms." *Journal of Risk and Financial Management* 16.7 (2023): 330. [https://doi.org/10.3390/jrfm16070330](https://doi.org/10.3390/jrfm16070330). [B-]
+- M. Lamby, V. Zieglmeier, and C. **Ziegler**, "Trusting a Smart Contract Means Trusting its Owners: Understanding Centralization Risk," *2023 5th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)*, Paris, France, 2023, pp. 1-4, [doi: 10.1109/BRAINS59668.2023.10316813](https://doi.org/10.1109/BRAINS59668.2023.10316813). [Unrated]
+- Pytel, N., **Ziegler**, C., & Winkelmann, A. (2024). "From Dissonance to Dialogue: A Token-Based Approach to Bridge the Gap Between Manufacturers and Customers". *ACM Trans. Manage. Inf. Syst.*. [https://dl.acm.org/doi/10.1145/3639058](https://dl.acm.org/doi/10.1145/3639058). [VHB, B]
+- **Ziegler**, Christian; Praski, Marcin; Fadeev, Dmitry; Wagner, Thomas; and Matout, Hassan, "A Network Analysis of Decentralized Autonomous Organizations" (2024). ECIS 2024 Proceedings. 8. [https://aisel.aisnet.org/ecis2024/track16_fintech/track16_fintech/8](https://aisel.aisnet.org/ecis2024/track16_fintech/track16_fintech/8). [VHB, B]
+- Christian **Ziegler**, Marcos Miranda, Guangye Cao, Gustav Arentoft, & Doo Wan Nam. (2024). "Classifying Proposals of Decentralized Autonomous Organizations Using Large Language Models." DAWO24 Proceedings Dawo/2024/01, Winterthur. [arXiv:2401.07059](https://arxiv.org/abs/2401.07059). [Unrated]
 
 ## Pre-Prints
 
 - **Ziegler**, Christian, and DuPont, Quinn. (2023). "Navigating the Research Landscape of Decentralized Autonomous Organizations: A Research Note and Agenda." [arXiv:2312.17197](https://arxiv.org/abs/2312.17197)
-- Christian **Ziegler**, Marcos Miranda, Guangye Cao, Gustav Arentoft, & Doo Wan Nam. (2024). "Classifying Proposals of Decentralized Autonomous Organizations Using Large Language Models." [arXiv:2401.07059](https://arxiv.org/abs/2401.07059)
 
 ## Further Publications
 
@@ -27,7 +27,7 @@ Christian Ziegler is the Chief Technology Officer of StableLab, analyzing Decent
 
 ## Activities
 
-- Tech Lead at StableLab, analyzing DAOs
+- CTO at StableLab, analyzing DAOs
 - Holds a Master of Science in Informatics from TUM and enjoys technology deep dives.
 - Co-Founder of the [PretzelDAO](https://pretzeldao.com), Organizer of [EthMunich](https://ethmunich.de/).
 - Alumni of [START Munich](https://www.startmunich.de/) and very well connected in the Munich startup space.
