@@ -83,6 +83,7 @@ Christian Ziegler is the Chief Technology Officer of StableLab, analyzing Decent
 - ECIS 2024, Cyprus, 13-19. June 2024
 - DAWO24, Winterthur, 4-5. July 2024
 - EthCC[7], Bruxelles, 8-11. July 2024
+- code.talks, Hamburg, 19-20. September 2024
 
 **Upcoming**
 - DEVCON, Bangkok, 12-15. Nov 2024
