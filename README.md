@@ -46,6 +46,7 @@ Christian Ziegler is the Chief Technology Officer of StableLab, analyzing Decent
 - UCL Center for Blockchain Technologies - "Call for Proposals 2022 Awards Showcase - A Taxonomy of Decentralized Autonomous Organizations and an Analysis of their Success Factors", London (13.02.2023, [recording](https://player.vimeo.com/video/799166629), [website](http://blockchain.cs.ucl.ac.uk/call-for-proposals-2022-awards/))
 - TUM Blockchain Salon - "Decentralized Autonomous Organizations", Munich TUM IAS (12.05.2023, [website](https://hedgedoc.net.in.tum.de/s/xDwzUxvFV))
 - European DAO Workshop 2024 (DAWO24) - "Classifying Proposals of Decentralized Autonomous Organizations Using Large Language Models", Winterthur (04.07.2023, [Website](https://dawo24.org/))
+- code.talks 2024 - "The Next Level of Computing Power and File Storage On-Chain", Hamburg (20.09.2024, [Website](https://codetalks.com/))
 
 ## Selected Completed Student Supervisions
 
