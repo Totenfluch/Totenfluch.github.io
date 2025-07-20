@@ -32,7 +32,7 @@ Dr. Christian Ziegler is the Chief Technology Officer of StableLab, analyzing De
 - Alumni of [START Munich](https://www.startmunich.de/) and very well connected in the Munich startup space.
 - Co-Founder and CTO of Blockcurators GmbH developing CoinKit and Cashrain.
 - Enjoys (DeFi-)Games, Bouldering, Skiing, and Conferences in his free time.
-- Visited 16 out of 195 countries
+- Visited 23 out of 195 countries
 
 ## Selected Talks
 
@@ -86,6 +86,7 @@ Dr. Christian Ziegler is the Chief Technology Officer of StableLab, analyzing De
 - EthCC[7], Bruxelles, 8-11. July 2024
 - code.talks, Hamburg, 19-20. September 2024
 - DEVCON, Bangkok, 12-15. Nov 2024
+- EthCC[8], Cannes, 30. June - 4 July 2025
 
 **Upcoming**
 - EthCC[8], Cannes, Summer 2025
