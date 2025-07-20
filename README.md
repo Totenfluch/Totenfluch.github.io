@@ -89,6 +89,5 @@ Dr. Christian Ziegler is the Chief Technology Officer of StableLab, analyzing De
 - EthCC[8], Cannes, 30. June - 4 July 2025
 
 **Upcoming**
-- EthCC[8], Cannes, Summer 2025
 - Devconnect 2025
 
