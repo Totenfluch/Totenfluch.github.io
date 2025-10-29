@@ -24,6 +24,7 @@ Dr. Christian Ziegler is the Chief Technology Officer of StableLab, analyzing De
 - **Governance in Decentralized Environments**: How DAOs reshape the Organizational Landscape (WS22/23)
 - **Decentralized Autonomous Organizations, Web3, Blockchain and the Metaverse** (SS23)
 - **Leading the Decentralized Revolution:** Decentralized Autonomous Organizations in Practice (WS24/25)
+- **Leading the Decentralized Revolution:** Decentralized Autonomous Organizations in Practice (WS25/26)
 
 ## Misc
 
