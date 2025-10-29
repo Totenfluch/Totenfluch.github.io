@@ -47,22 +47,7 @@ Dr. Christian Ziegler is the Chief Technology Officer of StableLab, analyzing De
 - TUM Blockchain Salon - "Decentralized Autonomous Organizations", Munich TUM IAS (12.05.2023, [website](https://hedgedoc.net.in.tum.de/s/xDwzUxvFV))
 - European DAO Workshop 2024 (DAWO24) - "Classifying Proposals of Decentralized Autonomous Organizations Using Large Language Models", Winterthur (04.07.2023, [Website](https://dawo24.org/))
 - code.talks 2024 - "The Next Level of Computing Power and File Storage On-Chain", Hamburg (20.09.2024, [Website](https://codetalks.com/))
-
-## Selected Completed Student Supervisions
-
-- **How to Spot the Next Unicorn NFTs, Tokens, Coins, DAOs, and More**  
-  _IDP, Simon Schnückel & Simon Berger_ [link](https://www.notion.so/929e209982c64467920f31168a213b33?pvs=21)
-- **How Decentralized Autonomous Organizations Disrupt Traditional Organizations - A Quantitative Study**  
-  _Master’s Thesis of Renzhi Liu_ [link](https://www.notion.so/How-Decentralized-Autonomous-Organizations-Disrupt-Traditional-Organizations-A-Quantitative-Study-956123e655d24db3bc3b8946593eb61d?pvs=21)
-- **An Empirical Assessment of DAOs to Determine Their Most Important Features**  
-  _Master’s Thesis of Ahmed Blej_ [link](https://www.notion.so/bd8919f2a0ea4556bc5d16a04f337090?pvs=21)
-- **An Empirical Analysis of Business Models in Decentralized Autonomous Organizations**  
-  _Master’s Thesis of Laxman Bhusal_ [link](https://www.notion.so/6632a143896d464d837059447130ff2f?pvs=21)
-- **An Empirical Analysis of Investments in Decentralized Autonomous Organizations**  
-  _Master’s Thesis of Shivani Verma_ [link](https://www.notion.so/An-Empirical-Analysis-of-Investments-in-Decentralized-Autonomous-Organizations-3aa0caae05c54f129c1a732f0fe429d8?pvs=21)
-- **The Potential Impact of Decentralized Autonomous Organizations on the Biotech Ecosystem**  
-  _Master’s Thesis of Konstantin Amm_ [link](https://www.notion.so/f9e743fe06a14f01a99d2d1c44611afb?pvs=21)
-
+- TUM Blockchain Conference 2025 - "Data-Driven Growth: Accelerating Web3 and DAO Growth through Quantitative Analytics" & "DeFi 101", Munich (11.09.2025, 12.09.2025, [Website](https://conference.tum-blockchain.com/))
 
 ## Selected Conference and Hackathon Attendance
 
@@ -87,7 +72,8 @@ Dr. Christian Ziegler is the Chief Technology Officer of StableLab, analyzing De
 - code.talks, Hamburg, 19-20. September 2024
 - DEVCON, Bangkok, 12-15. Nov 2024
 - EthCC[8], Cannes, 30. June - 4 July 2025
+- TUM Blockchain Conference, 11-12. September 2025
 
 **Upcoming**
-- Devconnect 2025
+- code.talks, Hamburg, 5-6. November 2025; "Vote for Laws, Not Politicians: How AI Agents Are Redefining DAO Governance"
 
