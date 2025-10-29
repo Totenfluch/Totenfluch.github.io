@@ -29,11 +29,12 @@ Dr. Christian Ziegler is the Chief Technology Officer of StableLab, analyzing De
 ## Misc
 
 - Holds a Master of Science in Informatics from TUM and enjoys technology deep dives.
+- Holds a doctorates degree (summa cum laude) from TUM on Decentralized Autonomous Organisations
 - Co-Founder of the [PretzelDAO](https://pretzeldao.com), Organizer of [EthMunich](https://ethmunich.de/).
 - Alumni of [START Munich](https://www.startmunich.de/) and very well connected in the Munich startup space.
-- Co-Founder and CTO of Blockcurators GmbH developing CoinKit and Cashrain.
+- Co-Founder and CTO of Blockcurators GmbH, previously developed CoinKit and Cashrain.
 - Enjoys (DeFi-)Games, Bouldering, Skiing, and Conferences in his free time.
-- Visited 23 out of 195 countries
+- Visited 25 out of 195 countries
 
 ## Selected Talks
 
