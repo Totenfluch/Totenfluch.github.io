@@ -49,7 +49,7 @@ Dr. Christian Ziegler is the Chief Technology Officer of StableLab, analyzing De
 - TUM Blockchain Salon - "Decentralized Autonomous Organizations", Munich TUM IAS (12.05.2023, [website](https://hedgedoc.net.in.tum.de/s/xDwzUxvFV))
 - European DAO Workshop 2024 (DAWO24) - "Classifying Proposals of Decentralized Autonomous Organizations Using Large Language Models", Winterthur (04.07.2023, [Website](https://dawo24.org/))
 - code.talks 2024 - "The Next Level of Computing Power and File Storage On-Chain", Hamburg (20.09.2024, [Website](https://codetalks.com/))
-- TUM Blockchain Conference 2025 - "Data-Driven Growth: Accelerating Web3 and DAO Growth through Quantitative Analytics" & "DeFi 101", Munich (11.09.2025, 12.09.2025, [Website](https://conference.tum-blockchain.com/))
+- TUM Blockchain Conference 2025 - "Data-Driven Growth: Accelerating Web3 and DAO Growth through Quantitative Analytics" & "DeFi 101", Munich (11.09.2025, 12.09.2025, [Website](https://conference.tum-blockchain.com/), [Recording](https://www.youtube.com/watch?v=JtVSqMm6KAU))
 
 ## Selected Conference and Hackathon Attendance
 
