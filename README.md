@@ -80,7 +80,5 @@ His peer-reviewed scientific research includes [A Taxonomy of DAOs](https://medi
 - DEVCON, Bangkok, 12-15. Nov 2024
 - EthCC[8], Cannes, 30. June - 4 July 2025
 - TUM Blockchain Conference, 11-12. September 2025
-
-**Upcoming**
 - code.talks, Hamburg, 5-6. November 2025; "Vote for Laws, Not Politicians: How AI Agents Are Redefining DAO Governance"
 
