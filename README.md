@@ -1,4 +1,8 @@
-Dr. Christian Ziegler is the Chief Technology Officer of StableLab, analyzing Decentralized Autonomous Organizations. Previously, he worked as a researcher at the Technical University of Munich (TUM), where he earned his doctorate (Dr.) with summa cum laude for his research on [Decentralized Autonomous Organizations](https://mediatum.ub.tum.de/?id=1735939). In 2018, he co-founded Blockcurators GmbH, which specializes in social wallets and social media marketing scaling to 60k MAU, single-handedly developing the software, before EOL. His previous peer-reviewed published scientific research includes a [A Taxonomy of DAOs](https://mediatum.ub.tum.de/doc/1709396/document.pdf), [scoring methodologies for DAOs](https://www.mdpi.com/1911-8074/16/7/330), [a network analysis of DAOS](https://mediatum.ub.tum.de/doc/1742459/document.pdf), [a classification of DAO proposals using LLMs](https://arxiv.org/abs/2401.07059), a [token based communication system](https://dl.acm.org/doi/10.1145/3639058), and a [research agenda for DAOs](https://arxiv.org/abs/2312.17197).
+Dr. Christian Ziegler is Co-Founder and Chief Technology Officer of [Uhrwerk AI](https://uhrwerk.ai/), building sovereign, robust AI workflows that operate directly within enterprise systems such as ERP, email, DMS, and specialized software. Uhrwerk AI focuses on production-grade AI for European companies, with EU-hosted and on-premise deployments designed around customers’ existing permissions, data, and approval processes.
+Previously, he served as Chief Technology Officerat StableLab, a leading provider of decentralized governance solutions.
+Before joining StableLab, he worked as a researcher at the Technical University of Munich (TUM), where he earned his doctorate (Dr.) with summa cum laude for his research on [Decentralized Autonomous Organizations](https://mediatum.ub.tum.de/?id=1735939). In 2018, he co-founded Blockcurators GmbH, specializing in social wallets and social-media products that scaled to approximately 60,000 monthly active users, with Christian developing the software before EOL.
+His peer-reviewed scientific research includes [A Taxonomy of DAOs](https://mediatum.ub.tum.de/doc/1709396/document.pdf), [scoring methodologies for DAOs](https://www.mdpi.com/1911-8074/16/7/330), [a network analysis of DAOs](https://mediatum.ub.tum.de/doc/1742459/document.pdf), [a classification of DAO proposals using LLMs](https://arxiv.org/abs/2401.07059), a [token-based communication system](https://dl.acm.org/doi/10.1145/3639058), and a [research agenda for DAOs](https://arxiv.org/abs/2312.17197).
+
 
 ## Peer-Reviewed Publications
 
@@ -33,8 +37,9 @@ Dr. Christian Ziegler is the Chief Technology Officer of StableLab, analyzing De
 - Co-Founder of the [PretzelDAO](https://pretzeldao.com), Organizer of [EthMunich](https://ethmunich.de/).
 - Alumni of [START Munich](https://www.startmunich.de/) and very well connected in the Munich startup space.
 - Co-Founder and CTO of Blockcurators GmbH, previously developed CoinKit and Cashrain.
+- Former CTO of StableLab, the leading delegate of Decentralized Autonomous Organizations
 - Enjoys (DeFi-)Games, Bouldering, Skiing, and Conferences in his free time.
-- Visited 25 out of 195 countries
+- Visited 29 out of 195 countries
 
 ## Selected Talks
 
